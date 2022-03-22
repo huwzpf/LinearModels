@@ -44,4 +44,4 @@ A visualization of Theta for first 4 digits
 !["zero"](plots/zero_theta.png)
 !["one"](plots/one_theta.png)
 !["two"](plots/two_theta.png)
-!["three"](plots/three_theta.png)
+!["three"](plots/threee_theta.png)
