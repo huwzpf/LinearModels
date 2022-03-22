@@ -23,7 +23,25 @@ Plots included below are results of algorithms running on examplary data
 
 ## Linear Regression
 Examplary 1-D data
+
+
+!["batch results"](plots/batch_linear.png)
+!["stochasitc results"](plots/stochastic_linear.png)
+!["normal equation results"](plots/normal_eq_linear.png)
 ## LogisticRegression
 Examplary 2-D data
+
+
+!["batch results"](plots/batch_log.png)
+!["stochasitc results"](plots/stochastic_log.png)
+!["newtons method results"](plots/newtons_log.png)
 ## Softmax Regression
 MNIST Handwritten Digits Dataset, accuracy of around 87%
+
+A visualization of Theta for first 4 digits 
+
+
+!["zero"](plots/zero_theta.png)
+!["one"](plots/one_theta.png)
+!["two"](plots/two_theta.png)
+!["three"](plots/three_theta.png)
